@@ -1,0 +1,55 @@
+(Transcribed by TurboScribe. Go Unlimited to remove this message.)
+
+Understanding the Fiverr algorithm and ranking a Fiverr gig on top of the search results is a bit more challenging and tricky, especially for new sellers. Most beginners make mistakes by following incorrect SEO tips, which ultimately results in a waste of time. You won't achieve success if you don't follow the correct SEO procedures.
+
+In today's video, I'll be teaching you how to rank any Fiverr gig on the first page of Fiverr, even if you're a beginner seller looking to start your career. However, keep in mind that you need to put in hard work and success won't come overnight. So, let's get back to the tutorial and make sure to watch until the end. 
+
+How to find a SEO-optimised and user-friendly gig title. Navigate to fiverr.com in your Chrome browser and make sure you've installed Fiverr Mate Chrome extension. At the end of the video, I'll tell you how to instal the extension and adjust settings. 
+
+I've installed it in my browser and logged in. Type your target keyword in the search bar. As an example, I'll show you how to optimise your Fiverr gig title for video editing keyword. 
+
+Click on Fiverr Mate menu. Then, click on gig titles button under the menu. Now, a CSV file will be downloaded to your PC. 
+
+It includes all the gig titles used in the SEO-optimised gigs on the first page. Highlight all the cells of gig titles and copy all the cells into your clipboard. Open a new tab and navigate to wordcounter.ai URL. 
+
+Paste the gig titles you copied earlier from the CSV. Download the results as a CSV and open it. It'll show the frequency of keywords used in all gig titles. 
+
+Highlight the topmost keywords and copy it into the clipboard. Then, navigate to chat.gpt and type this command in the console. Then, paste your target keyword list below the command. 
+
+It will generate you SEO-optimised and user-friendly gig titles rich with top used keyword list. How to find SEO-optimised Fiverr gig keywords. With Fiverr Mate Chrome extension, finding most used gig keywords for your relevant keyword is super easy. 
+
+What you have to do is type your target keyword in the search bar and hit enter. Wait for few seconds. It'll generate all the keywords used in each gig in search results.
+
+The topmost keywords are the highly popular keywords and the bottom are least popular or unique keywords. Select five keywords of them and use in your gig but make sure to use highly relevant keywords. If you get the premium version, it will show you how many gigs used that keyword also. 
+
+If you scroll down to the bottom, you can see under each gig the extension will reveal what are the tags used in the gig. You can refer them to when selecting right gig tags for your gig. How to create SEO-optimised gig description. 
+
+With Fiverr Mate Chrome extension, creating SEO-optimised Fiverr gig description is quite easy and effective. Think your target keyword is video editing. Type your target keyword in the search bar and get the top 10 gigs. 
+
+Then open them in separate tabs. I won't do it now but I'll show the rest of the process with one selected gig. What you have to do is repeat it for other gigs. 
+
+Go to the description tab in each gig. You can see a new item is added by Fiverr Mate which helps us to find keywords and their frequency only focussing on the gig description. Type your target keyword in the search bar and click on highlight button. 
+
+It'll highlight all the occurrences of the keyword you type and show how many times it is used in the gig description. You can take this detail into a notepad and repeat it for other keywords and then for other gigs. Finally, you'll receive a list of popular keywords you should use in the description. 
+
+With the help of that, you can create highly SEO-optimised gig descriptions. As a tip, you can use suggested keywords in your gig description too for an extra SEO advantage. How to Create Keyword-Rich FAQ Section When it comes to SEO, the FAQ section plays a major role in a better user-friendly experience and ranking your Fiverr gig on the first page. 
+
+The more you use your target keywords and relevant keywords in the FAQ section, the more it makes your Fiverr gig ranking higher. Take previously opened 10 gigs. Go to each gig and click on download questions button under the Fiverr main menu. 
+
+It'll download all the FAQs used by the seller. Take all into one notepad and copy them into your clipboard. And then navigate to wordcounter.ai and paste copied FAQs in the text box.
+
+It'll show you the frequency of keywords used in the FAQs. You can download the results as a CSV and get the relevant keywords from the list and use them in your FAQ section. How to Instal Fiverr Mate Chrome Extension Installing and customising this Chrome extension is quick and easy.
+
+First, open your Chrome profile. Navigate to the extension page by clicking on the three dots icon, scroll to more tools, and then extension. Click on this icon and then open the Chrome web store.
+
+In the search bar, type Fiverr Mate and hit enter. Click on this card. Click on add to Chrome button.
+
+And then in the pop-up menu, click on add item. Make sure to pin the extension so you can quickly access Fiverr Mate. Then you need to register to the extension by clicking on register button in the extension. 
+
+Then complete the registration process. Make sure to fill in with correct details since the data you filled in will be used to log into the extension. After the registration process, you can log into the extension and use it as normal.
+
+Hope this tutorial will help you to rank your Fiverr gig on the first page and get more orders, even if you're a beginner seller. The Fiverr Mate Chrome extension comes with more premium and free features that'll make your life easier. Navigate to syntaximos.com and check out more premium and free features that come with Fiverr Mate. 
+
+If you have any questions, you can contact us via Skype or email. See you at the next tutorial.
+
+(Transcribed by TurboScribe. Go Unlimited to remove this message.)
