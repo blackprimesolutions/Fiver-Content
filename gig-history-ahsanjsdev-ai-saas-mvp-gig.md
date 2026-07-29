@@ -139,6 +139,17 @@ Let's build something people will actually pay for.
 
 ---
 
+## Follow-up: pricing sanity-check ($35 → $150 jump)
+
+Saad questioned the 4.3x Basic→Standard jump (vs. 3x Standard→Premium). Verdict: **kept as drafted, no change.**
+
+- The jump is scope-driven, not artificial — Basic is "add one AI feature to something that exists," Standard is "build a full SaaS MVP." Genuinely different jobs, so an uneven ratio is fine; buyers evaluate each tier on its own merits, not the ratio between them.
+- Real risk flagged: at $35, Basic could act as a low-AOV "toe in the water" tier if most orders never upgrade.
+- Two mitigation options given (not applied, just logged as available levers if Basic underperforms):
+  - Bump Basic to $45–50 to narrow the jump to ~3x
+  - Leave pricing as-is, lean on Standard's package copy to out-sell Basic explicitly (Fiverr highlights Standard by default)
+- **Decision:** leave $35/$150/$450 live as drafted and let real order data show whether Basic converts too easily before adjusting. Don't re-litigate this ratio unless Saad brings new data (impressions/orders per tier).
+
 ## Already suggested this session — do not re-propose as new
 - Simplifying the three-promise title down to one clear "ai saas mvp" promise
 - Repricing away from the API-endpoint-count package structure
